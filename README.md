@@ -73,6 +73,26 @@ for Automotive Applications 2010: Smart Systems for Green Cars and Safe Mobility
 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(31).pdf" style="text-decoration:none;">Automotive Systems Engineering II </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(32).pdf" style="text-decoration:none;">How Things Are Made: From Automobiles to Zippers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(33).pdf" style="text-decoration:none;">Reliability in Automotive and Mechanical Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(34).pdf" style="text-decoration:none;">Who Invented the Automobile?</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(35).pdf" style="text-decoration:none;">A Field Guide to Automotive Technology</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(36).pdf" style="text-decoration:none;">Automotive Engine Valve Recession</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(37).pdf" style="text-decoration:none;">Auto Mechanics: Technology and Expertise in Twentieth-Century America</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(38).pdf" style="text-decoration:none;">Cooperative Automation in Automobiles</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(39).pdf" style="text-decoration:none;">The People's Car: A Global History of the Volkswagen Beetle</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(40).pdf" style="text-decoration:none;">Rethinking the Development of the Automobile Industry in China</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automobile-Engineering-Books/blob/master/alh(41).pdf" style="text-decoration:none;">The Gasoline 4-Stroke Engine
+for Automobiles</a></li>
 
 
 
